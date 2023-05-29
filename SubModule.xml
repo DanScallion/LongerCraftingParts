@@ -1,0 +1,35 @@
+<Module>
+     <Name value="LongerCraftingParts"/>
+     <Id value="LongerCraftingParts"/>
+     <Version value="v1.0.4"/>
+	 <Official value="false" />
+	 <DefaultModule value="false" />
+     <SingleplayerModule value="true"/>
+     <MultiplayerModule value="false"/>
+     <DependedModules>
+		<DependedModule Id="Bannerlord.Harmony" />
+		<DependedModule Id="Bannerlord.MBOptionScreen" />
+         <DependedModule Id="Native"/>
+         <DependedModule Id="SandBoxCore"/>
+         <DependedModule Id="Sandbox"/>
+         <DependedModule Id="StoryMode" />
+    </DependedModules>
+	<DependedModuleMetadatas>
+		<DependedModuleMetadata id="Bannerlord.Harmony" order="LoadBeforeThis" version="v2.2.2" />
+		<DependedModule Id="Native" DependentVersion="v1.0.1" Optional="false"/>
+		<DependedModule Id="SandBoxCore" DependentVersion="v1.0.1" Optional="false"/>
+		<DependedModule Id="Sandbox" DependentVersion="v1.0.1" Optional="false"/>
+		<DependedModule Id="StoryMode" DependentVersion="v1.0.1" Optional="false"/>
+		<DependedModule Id="Bannerlord.MBOptionScreen" DependentVersion="v5.0.4" Optional="false"/>
+  </DependedModuleMetadatas>
+     <SubModules>
+         <SubModule>
+             <Name value="LongerCraftingParts"/>
+             <DLLName value="LongerCraftingParts.dll"/>
+             <SubModuleClassType value="LongerCraftingParts.Main"/>
+             <Tags>
+             </Tags>
+         </SubModule>
+     </SubModules>
+     <Xmls/>
+ </Module>

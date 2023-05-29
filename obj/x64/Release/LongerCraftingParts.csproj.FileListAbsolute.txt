@@ -1,0 +1,6 @@
+H:\SteamLibrary\steamapps\common\Mount & Blade II Bannerlord\Modules\CraftingLongerParts\bin\Win64_Shipping_Client\LongerCraftingParts.dll
+C:\Users\danie\source\repos\LongerCraftingParts\obj\x64\Release\LongerCraftingParts.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\LongerCraftingParts\obj\x64\Release\LongerCraftingParts.csproj.CopyComplete
+C:\Users\danie\source\repos\LongerCraftingParts\obj\x64\Release\LongerCraftingParts.dll
+H:\SteamLibrary\SteamApps\common\Mount & Blade II Bannerlord\Modules\LongerCraftingParts\bin\Win64_Shipping_Client\LongerCraftingParts.dll
+C:\Users\danie\source\repos\LongerCraftingParts\obj\x64\Release\LongerCraftingParts.csprojAssemblyReference.cache

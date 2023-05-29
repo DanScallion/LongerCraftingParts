@@ -1,0 +1,35 @@
+C:\Users\danie\source\repos\MaxCraftingSizeIncrease\bin\x64\Release\MaxCraftingSizeIncrease.dll
+C:\Users\danie\source\repos\MaxCraftingSizeIncrease\bin\x64\Release\0Harmony.dll
+C:\Users\danie\source\repos\MaxCraftingSizeIncrease\bin\x64\Release\TaleWorlds.Core.dll
+C:\Users\danie\source\repos\MaxCraftingSizeIncrease\bin\x64\Release\TaleWorlds.MountAndBlade.dll
+C:\Users\danie\source\repos\MaxCraftingSizeIncrease\bin\x64\Release\TaleWorlds.ObjectSystem.dll
+C:\Users\danie\source\repos\MaxCraftingSizeIncrease\bin\x64\Release\TaleWorlds.Library.dll
+C:\Users\danie\source\repos\MaxCraftingSizeIncrease\bin\x64\Release\TaleWorlds.SaveSystem.dll
+C:\Users\danie\source\repos\MaxCraftingSizeIncrease\bin\x64\Release\TaleWorlds.Localization.dll
+C:\Users\danie\source\repos\MaxCraftingSizeIncrease\bin\x64\Release\TaleWorlds.ModuleManager.dll
+C:\Users\danie\source\repos\MaxCraftingSizeIncrease\bin\x64\Release\TaleWorlds.PlayerServices.dll
+C:\Users\danie\source\repos\MaxCraftingSizeIncrease\bin\x64\Release\TaleWorlds.Network.dll
+C:\Users\danie\source\repos\MaxCraftingSizeIncrease\bin\x64\Release\TaleWorlds.DotNet.dll
+C:\Users\danie\source\repos\MaxCraftingSizeIncrease\bin\x64\Release\TaleWorlds.MountAndBlade.Diamond.dll
+C:\Users\danie\source\repos\MaxCraftingSizeIncrease\bin\x64\Release\TaleWorlds.Engine.dll
+C:\Users\danie\source\repos\MaxCraftingSizeIncrease\bin\x64\Release\TaleWorlds.InputSystem.dll
+C:\Users\danie\source\repos\MaxCraftingSizeIncrease\bin\x64\Release\TaleWorlds.PlatformService.dll
+C:\Users\danie\source\repos\MaxCraftingSizeIncrease\bin\x64\Release\TaleWorlds.PSAI.dll
+C:\Users\danie\source\repos\MaxCraftingSizeIncrease\bin\x64\Release\TaleWorlds.Diamond.dll
+C:\Users\danie\source\repos\MaxCraftingSizeIncrease\bin\x64\Release\TaleWorlds.Diamond.ChatSystem.Library.dll
+C:\Users\danie\source\repos\MaxCraftingSizeIncrease\bin\x64\Release\TaleWorlds.ScreenSystem.dll
+C:\Users\danie\source\repos\MaxCraftingSizeIncrease\bin\x64\Release\TaleWorlds.MountAndBlade.Helpers.dll
+C:\Users\danie\source\repos\MaxCraftingSizeIncrease\bin\x64\Release\TaleWorlds.LinQuick.dll
+C:\Users\danie\source\repos\MaxCraftingSizeIncrease\bin\x64\Release\TaleWorlds.AchievementSystem.dll
+C:\Users\danie\source\repos\MaxCraftingSizeIncrease\bin\x64\Release\TaleWorlds.ActivitySystem.dll
+C:\Users\danie\source\repos\MaxCraftingSizeIncrease\bin\x64\Release\TaleWorlds.ServiceDiscovery.Client.dll
+C:\Users\danie\source\repos\MaxCraftingSizeIncrease\bin\x64\Release\TaleWorlds.Diamond.AccessProvider.Test.dll
+C:\Users\danie\source\repos\MaxCraftingSizeIncrease\bin\x64\Release\Newtonsoft.Json.dll
+C:\Users\danie\source\repos\MaxCraftingSizeIncrease\bin\x64\Release\System.Numerics.Vectors.dll
+C:\Users\danie\source\repos\MaxCraftingSizeIncrease\bin\x64\Release\System.Management.dll
+C:\Users\danie\source\repos\MaxCraftingSizeIncrease\obj\x64\Release\MaxCraftingSizeIncrease.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\MaxCraftingSizeIncrease\obj\x64\Release\MaxCraftingSizeIncrease.csproj.CopyComplete
+C:\Users\danie\source\repos\MaxCraftingSizeIncrease\obj\x64\Release\MaxCraftingSizeIncrease.dll
+H:\SteamLibrary\steamapps\common\Mount & Blade II Bannerlord\Modules\MaxCraftingSizeIncrease\bin\Win64_Shipping_Client\MaxCraftingSizeIncrease.dll
+C:\Users\danie\source\repos\MaxCraftingSizeIncrease\obj\x64\Release\MaxCraftingSizeIncrease.csprojAssemblyReference.cache
+H:\SteamLibrary\steamapps\common\Mount & Blade II Bannerlord\Modules\CraftingLongerParts\bin\Win64_Shipping_Client\MaxCraftingSizeIncrease.dll

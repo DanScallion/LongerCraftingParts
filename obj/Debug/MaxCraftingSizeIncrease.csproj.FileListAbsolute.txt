@@ -1,0 +1,6 @@
+H:\SteamLibrary\SteamApps\common\Mount & Blade II Bannerlord\Modules\MaxCraftingSizeIncrease\bin\Win64_Shipping_Client\MaxCraftingSizeIncrease.dll
+H:\SteamLibrary\SteamApps\common\Mount & Blade II Bannerlord\Modules\MaxCraftingSizeIncrease\bin\Win64_Shipping_Client\MaxCraftingSizeIncrease.pdb
+C:\Users\danie\source\repos\MaxCraftingSizeIncrease\obj\Debug\MaxCraftingSizeIncrease.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\MaxCraftingSizeIncrease\obj\Debug\MaxCraftingSizeIncrease.csproj.CopyComplete
+C:\Users\danie\source\repos\MaxCraftingSizeIncrease\obj\Debug\MaxCraftingSizeIncrease.dll
+C:\Users\danie\source\repos\MaxCraftingSizeIncrease\obj\Debug\MaxCraftingSizeIncrease.pdb

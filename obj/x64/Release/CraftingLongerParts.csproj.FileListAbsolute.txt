@@ -1,0 +1,9 @@
+C:\Users\danie\source\repos\MaxCraftingSizeIncrease\obj\x64\Release\CraftingLongerParts.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\MaxCraftingSizeIncrease\obj\x64\Release\CraftingLongerParts.csproj.CopyComplete
+H:\SteamLibrary\steamapps\common\Mount & Blade II Bannerlord\Modules\CraftingLongerParts\bin\Win64_Shipping_Client\CraftingLongerParts.dll
+C:\Users\danie\source\repos\MaxCraftingSizeIncrease\obj\x64\Release\CraftingLongerParts.csprojAssemblyReference.cache
+C:\Users\danie\source\repos\MaxCraftingSizeIncrease\obj\x64\Release\CraftingLongerParts.dll
+C:\Users\danie\source\repos\CraftingLongerParts\obj\x64\Release\CraftingLongerParts.csprojAssemblyReference.cache
+C:\Users\danie\source\repos\CraftingLongerParts\obj\x64\Release\CraftingLongerParts.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\CraftingLongerParts\obj\x64\Release\CraftingLongerParts.csproj.CopyComplete
+C:\Users\danie\source\repos\CraftingLongerParts\obj\x64\Release\CraftingLongerParts.dll
