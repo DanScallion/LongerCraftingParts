@@ -1,7 +1,7 @@
 # LongerCraftingParts
 
 HOW DOES THIS WORK?
-Uniform scalling is achieved by modyfing at runtime **instructions** of correct class and by modyfing the **ifstatement** to add another **or** statement to inlcude blade and scale it uniformly.
+Uniform scalling is achieved by modyfing at runtime **instructions** of correct class and by modyfing the **ifstatement** to add another **or** **statement** to inlcude blade and scale it uniformly.
 
 Longer weapons are achieved by modyfing the arguments passed to the class.
 
